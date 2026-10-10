@@ -75,3 +75,12 @@ The risk categories are assigned using predefined keywords and should not be int
 Apex Project 1 — Trimester 3  
 B.S. Data Science and Artificial Intelligence  
 BITS Pilani Digital
+
+## Project Files
+
+- **Project Notebook:** [View Jupyter Notebook](BITS_PILANI_Advance_apex_project_1.ipynb)
+- **Project Report:** [View Project Report](BITS_PILANI_Apex_Project_Report.docx)
+
+## Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kushal07mehta/).
